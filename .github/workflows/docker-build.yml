@@ -29,5 +29,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: samscoot007/python-helloworld:latest
+          tags: samscoot007/go-helloworld:latest
           platforms: linux/amd64
